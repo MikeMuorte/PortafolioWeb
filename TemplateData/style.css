@@ -24,6 +24,7 @@
 
 }
 }
+;
 }
 
 #unity-loading-bar {
@@ -107,6 +108,7 @@
     .warning-card h2 {
         margin-top: 0;
         margin-bottom: 12px;
+        text-decoration: underline;
     }
 
     .warning-card p {
